@@ -1,3 +1,4 @@
+![Screenshot (93)](https://github.com/kiranism431/trello_clone/assets/64724286/a389a883-9af1-41b0-b5f7-b5292560e4fb)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
