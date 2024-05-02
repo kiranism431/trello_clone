@@ -1,0 +1,34 @@
+.App {
+  background-color: #4158D0;
+background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+
+  height: 100vh;
+}
+
+.Header {
+  background: rgba(0, 0, 0, 0.15);
+  color: white;
+  padding: 5px 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+  text-align: center;
+  font-size: 40px;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: 200;
+}
+.Navbar {
+  display: flex;
+}
+
+.NavbarButton {
+  margin-right: 10px;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #005a9e;
+  color: white;
+  cursor: pointer;
+}
+
+.NavbarButton:hover {
+  background-color: #004280;
+}
